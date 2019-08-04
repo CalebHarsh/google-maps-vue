@@ -31,8 +31,9 @@
 </template>
 
 <script>
+import propertyData from '../assets/propery-data.js';
 export default {
-  name: 'HelloWorld',
+  name: 'HomePage',
   props: {
     msg: String
   }
