@@ -1,4 +1,4 @@
-export default [
+[
   {
     "Full Address": "210 N JUSTINE ST, CHICAGO, IL",
     "Latitude": -87.6656355,
@@ -92999,4 +92999,4 @@ export default [
     "APPEAL_A_CURRAV": 63560,
     "APPEAL_A_RESLTDATE": "10/19/2015"
   }
-];
+]
